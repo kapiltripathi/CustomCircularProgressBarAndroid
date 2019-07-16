@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomProgressBar">
+        <attr name="mStrokeWidth" format="dimension"/>
+        <attr name="mAnimationDuration" format="integer"/>
+        <attr name="mMaxProgress" format="integer"/>
+        <attr name="mProgressColor" format="color"/>
+    </declare-styleable>
+</resources>
