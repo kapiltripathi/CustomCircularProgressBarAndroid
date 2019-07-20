@@ -3,9 +3,7 @@ It involves:
 Making Custom Progress Bar class:- this class uses onDraw method for drawing both secondary and main progress circles 
 Setting the custom Attributes is done iin 'attrs.xml' under <declare-styleable> tag
 Defining the Xml attributes in main file
-  
-
 
 Text Alignment to the center is slighlty problematic.
 
-read the code fpr better understand it and hence mold it your way.
+Read the code for better understanding and hence mold it your way.
