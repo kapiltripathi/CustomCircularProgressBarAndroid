@@ -1,0 +1,11 @@
+Ring Shaped Progress Bar or the Circular Progress Bar though is available in android , Many times does not fulfill the app requirements.Provided is the code for Custom Circular Progress Bar with Rounded edges and Secondary Progress.
+It involves:
+Making Custom Progress Bar class:- this class uses onDraw method for drawing both secondary and main progress circles 
+Setting the custom Attributes is done iin 'attrs.xml' under <declare-styleable> tag
+Defining the Xml attributes in main file
+  
+
+
+Text Alignment to the center is slighlty problematic.
+
+read the code fpr better understand it and hence mold it your way.
