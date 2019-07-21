@@ -4,7 +4,7 @@ Making Custom Progress Bar class:- this class uses onDraw method for drawing bot
 Setting the custom Attributes is done iin 'attrs.xml' under <declare-styleable> tag
 Defining the Xml attributes in main file
 
-Text Alignment to the center is slighlty problematic.
+Text Alignment to the center of the circle is slighlty problematic.
 
 Read the code for better understanding and hence mold it your way.
-Only the necessary files have been provided no gradle files etc are provided
+Only the necessary files have been provided no gradle files etc are provided.
